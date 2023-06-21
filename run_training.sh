@@ -6,7 +6,7 @@ source ~/.bashrc
 source activate nequip
 
 
-export LD_LIBRARY_PATH=/home/${USER}/.conda/envs/diffdock/lib/:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=/home/${USER}/.conda/envs/nequip/lib/:$LD_LIBRARY_PATH
 
 export OPENBLAS_NUM_THREADS=2
 
