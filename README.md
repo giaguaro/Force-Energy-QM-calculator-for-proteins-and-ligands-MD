@@ -8,4 +8,4 @@ I am hoping to expand the applications' scope of such calculator in various ML p
 
 The repository also contains the scripts to run the training and inferrence. 
 If you want to obtain the full training directory with pretrained model (as per the notebook): 
--> download it from [GDrive]([(https://drive.google.com/file/d/161K0uq1kNy0lEaZIHzegEAlc_9LVpyjj/view?usp=sharing)https://drive.google.com/file/d/161K0uq1kNy0lEaZIHzegEAlc_9LVpyjj/view?usp=sharing]) 
+-> download it from [GDrive]([https://drive.google.com/file/d/161K0uq1kNy0lEaZIHzegEAlc_9LVpyjj/view?usp=sharing]) 
